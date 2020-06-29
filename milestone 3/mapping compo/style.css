@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    background: lightgoldenrodyellow;
+ }
+ 
+ .contacts{
+     display: flex;
+     flex-wrap: wrap;
+ }
+ 
+ .contact-card{
+     flex-basis: 250px;
+     margin: 20px;
+     background: lightpink;
+     padding: 8px;
+     border-radius: 20px
+ }
+ 
+ .contact-card > img{
+     width: 100%;
+     height: auto;
+ }
+ 
+ .contact-card > h3 {
+     text-align: left;
+ }
+ 
+  .contact-card > h2 {
+     text-align: left;
+ }
+ 
+ .contact-card > p {
+       font-size: 12px;
+ }
