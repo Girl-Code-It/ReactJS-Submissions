@@ -1,0 +1,20 @@
+body{
+    background-color: orange
+  }
+  .App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  padding-bottom: 300px
+}
+
+.App h1{
+  color: chocolate;
+  font-size: 100px;
+}
+
+.App button{
+  font-size: 20px;
+  color: orange
+
+}

@@ -1,0 +1,15 @@
+body { 
+  background-color: lightgreen;
+  text-align: center;
+  margin-top: 80px;
+  font-size: 40px
+}
+
+.user button{
+  background-color: lightskyblue;
+}
+.user p{
+  color: rebeccapurple;
+  background-color: blanchedalmond;
+  max-width: 300px
+}
